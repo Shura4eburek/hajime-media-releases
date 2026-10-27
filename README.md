@@ -1,2 +1,6 @@
-# hajime-media-releases
-Hajime Media builds (auto-update source)
+# Hajime Media — releases
+
+Готовые сборки Hajime Media: программы, которая делает и обновляет флешки Hajime Setup.
+Скачай архив из последнего релиза, распакуй и запусти `hajime-media.exe`. Дальше программа обновляется сама.
+
+Исходный код хранится в отдельном приватном репозитории.
